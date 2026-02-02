@@ -1,4 +1,4 @@
-# Hi, I’m Nyida Gyal 👋
+# Hi, I’m Nyida Gyal 
 
 I’m a student builder and researcher focused on **AI**, **computational social science**, and **education impact**.  
 I like turning ideas into projects that are *useful, reproducible, and well-documented*.
